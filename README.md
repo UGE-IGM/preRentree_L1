@@ -8,5 +8,5 @@ Source: https://prograide.com/pregunta/1081/commentaires-en-format-markdownprere
 
 -->
 
-prerentree_l1
+informagique_Jupyter.ipynb (cliquez sur l'icône "launch")
 [![Binder](https://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/UGE-IGM/preRentree_L1/main?filepath=preRentree_Jupyter/informagique_Jupyter.ipynb)
